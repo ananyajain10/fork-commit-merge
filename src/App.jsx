@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState } from "react" ;
 import "./index.css";
 function App() {
   const [meme, setMeme] = useState({
@@ -38,7 +38,7 @@ function App() {
       </button>
       <div className="card">
 
-        <img className="card img" alt="Meme" src={meme.memes} />
+        <img className="card img" alt="Meme" src={meme.memes}  />
         
       </div>
     </div>
