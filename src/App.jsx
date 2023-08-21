@@ -34,7 +34,7 @@ function App() {
     <div className="center">
       
       <button className="form-button" onClick={getMemeImage}>
-        Get New MEME 
+        Get New MEME IMAGE
       </button>
       <div className="card">
 
